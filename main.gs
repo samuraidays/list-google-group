@@ -1,7 +1,7 @@
 function GetGroupAddress()
 {
   // 1ドメインにつき最大200まで取得
-  let domains = ['justincase-tech.com', 'justincase.jp'];
+  let domains = ['XXXXX.com', 'XXXXX.jp'];
   let maxResults = 200;
   let endFlag = false;
   let token = '';
